@@ -67,7 +67,7 @@ a {
 }
 
 a:hover {
-    color: rgb(245, 178, 168)
+    color: rgb(245, 178, 168);
 }
 
 a:visited {
@@ -76,13 +76,13 @@ a:visited {
 
 @media screen and (max-width: 768px) {
     #parent {
-        display: inline-block;
+        display: block;
     }
    
     h2 {
-        30px
+        30px;
     }
+
     p {
-        25px
-    }
+        25px;
 }
